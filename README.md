@@ -1,7 +1,7 @@
 # throbber
 Throbber brings you back to the 90s
 
-This is a Google Chrome/Microsoft Edge that adds the little Microsoft Internet Explorer trobber icon to the navigation bar. It rotates when a page is loading and that's it, nothing more.
+This is a Google Chrome/Microsoft Edge that adds the little Microsoft Internet Explorer throbber icon to the navigation bar. It rotates when a page is loading and that's it, nothing more.
 
 ![demo of the Microsoft Internet Explorer trobbre on Microsoft Edge](https://stephanerangaya-github.s3.amazonaws.com/Screen+Recording+2021-02-24+at+23.46.18.gif)
 
