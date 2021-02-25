@@ -2,9 +2,9 @@ var index = 1;
 var running = true;
 
 setInterval(function () {
-  var path = "/" + index + ".png";
+  var path = "/img/" + index + ".png";
   chrome.browserAction.setIcon({
-    path: running ? path : "/26.png",
+    path: running ? path : "/img/26.png",
   });
   if (index === 41) {
     index = 1;
