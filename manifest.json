@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Throbber",
+  "description": "Throbber brings you back to the 90s",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "26.png",
+    "default_title": "Throbber"
+  },
+  "background": {
+    "scripts": ["throbber.js"],
+    "persistent": false
+  }
+}
