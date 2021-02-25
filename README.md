@@ -8,7 +8,7 @@ This is a Google Chrome/Microsoft Edge that adds the little Microsoft Internet E
 ### Install
 
 1. Download this folder
-2. Go to chrome://extensions/ or edge://extensions/ (if you're using Edge, check the "Developer Mode" switch at the bottom left)
+2. Go to [chrome://extensions/](chrome://extensions/) or [edge://extensions/](edge://extensions/) (if you're using Edge, check the "Developer Mode" switch at the bottom left)
 3. Click on `Load unpacked` 
 4. Open this folder in the loading window
 5. Voilà! Make sure to pin the extension icon so you can always see it.
